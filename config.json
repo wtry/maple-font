@@ -40,7 +40,7 @@
     "cv41": "enable",
     "cv42": "enable",
     "cv43": "enable",
-    "cv61": "disable",
+    "cv61": "enable",
     "cv62": "enable",
     "cv63": "enable",
     "cv64": "enable",
@@ -65,7 +65,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "mono": true,
+    "mono": false,
     "propo": false,
     "use_font_patcher": false,
     "glyphs": ["--complete"],
